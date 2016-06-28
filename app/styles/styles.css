@@ -1,0 +1,28 @@
+.inputForm {
+    margin-top: 3%;
+}
+
+#todosInput {
+    margin-bottom: 3%;
+}
+
+.rightPanel {
+    margin-top: 3%;
+}
+
+header {
+    text-align: center;
+    font-size: 3em;
+}
+
+.aHigh {
+    background-color: #ff0033;
+}
+
+.bMedium {
+    background-color: lightyellow;
+}
+
+.cLow {
+    background-color: lightgreen;
+}

@@ -1,0 +1,15 @@
+[
+	{
+        "name": "Make lunch",
+        "priority": "aHigh"
+    },
+    {
+        "name": "Go to school",
+        "priority": "bMedium"
+    },
+    {
+        "name": "Take a shower",
+        "priority": "cLow"
+    }
+
+]
